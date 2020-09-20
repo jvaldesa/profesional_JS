@@ -4,6 +4,10 @@
   "description": "Proyecto del Curso Profesional de JavaScript de la Escuela de JS",
   "author": "Jvaldes",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jvaldesa/profesional_JS.git"
+  },
   "keywords": [
     "platzi"
   ],
